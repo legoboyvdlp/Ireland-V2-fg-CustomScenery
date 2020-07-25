@@ -1,0 +1,15 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/dGreenhse.ac -8.41978 52.60682 -0.52 275.002
+OBJECT_SHARED Models/lib/garage-small-white.ac -8.41981 52.60668 -0.51 27.5033
+OBJECT_SHARED Models/lib/shed8x10.ac -8.41961 52.60655 -0.52 30.9641
+OBJECT_SHARED Models/lib/shed8x10.ac -8.41962 52.60654 -0.52 301.501
+OBJECT_SHARED Models/lib/shed8x10.ac -8.41952 52.60646 -0.52 30.9641
+OBJECT_SHARED Models/lib/shed8x10.ac -8.41855 52.60646 -0.53 130.002
+OBJECT_SHARED Models/lib/shed8x10.ac -8.41912 52.60633 -0.52 130.002
+OBJECT_SHARED Models/lib/shed8x10.ac -8.41864 52.60641 -0.52 130.002
+OBJECT_SHARED Models/lib/shed8x10.ac -8.41921 52.60628 -0.52 130.002
+OBJECT_SHARED Models/lib/coal_pile.ac -8.41899 52.60647 -0.52 222.201
+OBJECT_SHARED Models/lib/SmHangar.ac -8.41980 52.60635 -0.51 122.004
+# END dsf2stg

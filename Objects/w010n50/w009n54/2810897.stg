@@ -1,0 +1,63 @@
+OBJECT_SHARED Models/Airport/ndb.ac -8.591111 54.278714 1.9 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -8.591111 54.278714 1.9 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -8.65165 54.314049 -0.16 323.23
+
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23878 54.49260 -0.36 284.885
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23869 54.49261 -0.36 284.885
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23881 54.49265 -0.36 284.885
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23900 54.49299 -0.35 15.6612
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23903 54.49305 -0.35 15.6612
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23908 54.49316 -0.35 15.6612
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23905 54.49310 -0.35 15.6612
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23917 54.49315 -0.35 15.6612
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23915 54.49309 -0.35 15.6612
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23912 54.49304 -0.35 15.6612
+OBJECT_SHARED Models/lib/container6-HD.ac -8.23910 54.49298 -0.35 15.6612
+OBJECT_SHARED Models/lib/shed8x10.ac -8.24255 54.49155 -0.32 284.532
+OBJECT_SHARED Models/lib/shed8x10.ac -8.24722 54.49074 -0.25 284.554
+OBJECT_SHARED Models/lib/shed8x10.ac -8.24345 54.49141 -0.31 277.133
+OBJECT_SHARED Models/lib/HorizTanks2.ac -8.23922 54.49369 -0.33 106.134
+OBJECT_SHARED Models/Transport/van_red.ac -8.24198 54.49169 -0.33 24.3021
+OBJECT_SHARED Models/Transport/hatchback_black.ac -8.24247 54.49169 -0.32 287.105
+OBJECT_SHARED Models/Transport/hatchback_red.ac -8.24270 54.49167 -0.32 14.5736
+OBJECT_SHARED Models/Transport/van_red.ac -8.24325 54.49169 -0.31 13.0904
+OBJECT_SHARED Models/Transport/hatchback_black.ac -8.24307 54.49172 -0.31 98.6532
+OBJECT_SHARED Models/Transport/van_silver.ac -8.24388 54.49177 -0.30 103.344
+OBJECT_SHARED Models/Transport/van_silver.ac -8.24351 54.49154 -0.30 11.3106
+OBJECT_SHARED Models/Transport/hatchback_black.ac -8.24429 54.49154 -0.29 85.3651
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -8.24722 54.49083 -0.25 108.942
+OBJECT_SHARED Models/Transport/van_red.ac -8.24772 54.49087 -0.24 20.0504
+OBJECT_SHARED Models/Transport/van_silver.ac -8.24550 54.49146 -0.27 288.264
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -8.24551 54.49149 -0.27 289.571
+OBJECT_SHARED Models/lib/trailer-ups.ac -8.23941 54.49152 -0.37 199.343
+OBJECT_SHARED Models/lib/industrial13x24.ac -8.24785 54.49084 -0.24 290.965
+OBJECT_SHARED Models/lib/industrial13x24.ac -8.23814 54.49095 -0.39 280.303
+OBJECT_SHARED Models/lib/industrial13x24.ac -8.24021 54.49158 -0.35 285.461
+OBJECT_SHARED Models/lib/industrial13x24.ac -8.24097 54.49186 -0.34 199.722
+OBJECT_SHARED Models/lib/industrial13x24.ac -8.23794 54.49291 -0.36 283.725
+OBJECT_SHARED Models/lib/industrial13x24.ac -8.23815 54.49288 -0.36 283.725
+OBJECT_SHARED Models/lib/dGreenhse.ac -8.24234 54.49156 -0.32 13.4351
+OBJECT_SHARED Models/lib/farm19x12.ac -8.24738 54.49089 -0.25 20.4555
+OBJECT_SHARED Models/lib/garden-shed.ac -8.24289 54.49153 -0.32 281.313
+OBJECT_SHARED Models/lib/shed8x10.ac -8.24691 54.49090 -0.26 196.201
+OBJECT_SHARED Models/lib/shed8x10.ac -8.23777 54.49081 -0.40 99.9043
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -8.24688 54.49081 -0.26 16.2916
+OBJECT_SHARED Models/lib/2container-office.ac -8.24126 54.49163 -0.34 290.394
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -8.23993 54.49155 -0.36 105.65
+OBJECT_SHARED Models/lib/canopy18x10.ac -8.24004 54.49188 -0.35 287.07
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -8.24013 54.49187 -0.35 16.8354
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -8.24004 54.49189 -0.35 196.421
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -8.23995 54.49190 -0.35 196.904
+OBJECT_SHARED Models/lib/transformer3x3.ac -8.23705 54.49290 -0.38 107.552
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -8.23294 54.49479 -95.39 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -8.23664 54.49365 -0.37 0
+OBJECT_SHARED Models/lib/shed10x50.ac -8.23867 54.49387 -0.34 105.095
+OBJECT_SHARED Models/lib/shed10x50.ac -8.23812 54.49303 -0.36 15.7148
+OBJECT_SHARED Models/lib/office32x25.ac -8.23904 54.49467 -0.32 195.844
+OBJECT_SHARED Models/lib/garage-small-white.ac -8.23576 54.49397 -0.37 285.433
+OBJECT_SHARED Models/lib/transformer3x3.ac -8.24005 54.49327 -0.33 146.675
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -8.23613 54.49369 -0.37 104.053
+# END dsf2stg

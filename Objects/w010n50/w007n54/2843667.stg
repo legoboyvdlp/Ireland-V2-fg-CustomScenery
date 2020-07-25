@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -6.22950 54.25546 -0.42 247.222
+OBJECT_SHARED Models/Airport/cargobox.xml -6.23036 54.25444 -0.40 305.815
+OBJECT_SHARED Models/lib/shed8x10.ac -6.23030 54.25475 -0.40 320.815
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.23025 54.25459 -0.40 46.6748
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -6.23012 54.25473 -0.40 326.655
+# END dsf2stg

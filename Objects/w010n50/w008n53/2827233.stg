@@ -1,0 +1,38 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -7.64587 53.59116 -0.37 82.4097
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -7.64632 53.59096 -0.38 265.769
+OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac -7.64590 53.59027 -0.39 152.413
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -7.64357 53.59234 -0.32 96.1181
+OBJECT_SHARED Models/Aircraft/Cessna172_green.ac -7.64256 53.59262 -0.30 262.509
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -7.64314 53.59307 -0.30 358.899
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -7.64554 53.59101 -0.37 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -7.64655 53.59060 -0.39 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -7.64596 53.59033 -0.39 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -7.64366 53.59237 -0.32 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -7.64261 53.59274 -0.30 270
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -7.64365 53.59288 -0.31 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.64360 53.59210 -0.33 270.004
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.64382 53.59236 -0.32 301.162
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.64388 53.59238 -0.32 328.178
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.64340 53.59264 -0.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -7.64359 53.59263 -0.31 0
+OBJECT_SHARED Models/Transport/hatchback_black.ac -7.64388 53.59254 -0.32 318.218
+OBJECT_SHARED Models/Transport/hatchback_green.ac -7.64573 53.59021 -0.39 270.004
+OBJECT_SHARED Models/Transport/hatchback_green.ac -7.64365 53.59295 -0.30 225.3
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -7.64378 53.59263 -0.32 230.909
+OBJECT_SHARED Models/Transport/van_red.ac -7.64339 53.59311 -0.30 300.261
+OBJECT_SHARED Models/Transport/hatchback_black.ac -7.64344 53.59311 -0.30 310.369
+OBJECT_SHARED Models/Transport/van_red.ac -7.64565 53.59029 -0.39 73.8128
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -7.64564 53.59032 -0.39 72.1813
+OBJECT_SHARED Models/lib/SmHangar.ac -7.64602 53.59045 -0.39 165.653
+OBJECT_SHARED Models/lib/SmHangar.ac -7.64654 53.59052 -0.39 252.507
+OBJECT_SHARED Models/lib/SmHangar.ac -7.64598 53.59054 -0.39 166.68
+OBJECT_SHARED Models/lib/SmHangar.ac -7.64594 53.59065 -0.38 169.174
+OBJECT_SHARED Models/lib/SmHangar.ac -7.64416 53.59314 -0.30 140.225
+OBJECT_SHARED Models/lib/SmHangar.ac -7.64590 53.59075 -0.38 166.68
+OBJECT_SHARED Models/lib/hangar81x16.ac -7.64338 53.59355 -0.29 311.015
+OBJECT_SHARED Models/lib/HorizTanks2.ac -7.64311 53.59217 -0.32 65.176
+OBJECT_SHARED Models/lib/HorizTanks2.ac -7.64545 53.59080 -0.38 336.273
+# END dsf2stg

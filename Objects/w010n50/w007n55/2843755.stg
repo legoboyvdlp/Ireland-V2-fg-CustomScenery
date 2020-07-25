@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Airport/ndb.ac -6.249478 55.682864 15.25 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -6.248575 55.693619 32.15 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -6.241826 55.746755 80.85 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -6.217467 55.638589 60.61 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -6.138786 55.673309 325.6 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -6.095386 55.733188 475.59 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -6.080117 55.662847 86.23 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -6.022932 55.683687 23.13 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -6.2294394 55.6273374 36.94 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -6.249414 55.682967 15.39 180
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -6.155 55.631666667 10.89 0
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -6.151362 55.629592 5.57 110
+OBJECT_SHARED Models/Industrial/scotch-distillery.ac -6.109654 55.64059 4.5 40
+OBJECT_SHARED Models/Industrial/bond-warehouse.ac -6.150434 55.629438 4.58 150
+OBJECT_SHARED Models/Industrial/bond-warehouse.ac -6.107444 55.640811 3.42 161.5
+OBJECT_SHARED Models/Industrial/bond-warehouse.ac -6.0998633 55.6473712 27.21 317.5
+OBJECT_SHARED Models/Airport/tower.xml -6.2490311 55.6832387 15.86 56

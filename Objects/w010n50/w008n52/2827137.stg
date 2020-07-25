@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -7.537517 52.060184 -0.09 94.16
+OBJECT_STATIC Ballinacourty_Lighthouse.xml -7.55453899 52.07936225 3.64 204
+OBJECT_STATIC Ballinacourty_Lighthouse_Accom.ac -7.55452381 52.079465 4 204

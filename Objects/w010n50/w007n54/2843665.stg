@@ -1,0 +1,26 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargobox.xml -6.58587 54.30170 -0.52 24.39
+OBJECT_SHARED Models/lib/shed8x10.ac -6.58574 54.30165 -0.52 85.3143
+OBJECT_SHARED Models/lib/shed8x10.ac -6.59172 54.36877 -0.47 95.6141
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.59330 54.37182 -0.41 24.125
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.59231 54.36885 -0.47 275.545
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -6.59123 54.36867 -0.47 178.392
+OBJECT_SHARED Models/lib/shed8x10.ac -6.59343 54.37188 -0.41 24.5644
+OBJECT_SHARED Models/lib/garden-shed.ac -6.59301 54.37191 -0.41 13.5724
+OBJECT_SHARED Models/lib/shed8x10.ac -6.59365 54.37130 -0.42 305.951
+OBJECT_SHARED Models/lib/shed8x10.ac -6.59157 54.36877 -0.47 95.6141
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.59353 54.37161 -0.42 299.974
+OBJECT_SHARED Models/lib/shed8x10.ac -6.59084 54.36955 -0.46 83.864
+OBJECT_SHARED Models/lib/shed8x10.ac -6.59148 54.37057 -0.44 94.2353
+OBJECT_SHARED Models/lib/industrial13x24.ac -6.59160 54.37099 -0.43 272.661
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.59153 54.36830 -0.48 73.5038
+OBJECT_SHARED Models/lib/prop_a.ac -6.59137 54.37114 -0.42 236.73
+OBJECT_SHARED Models/lib/garage-small-white.ac -6.59227 54.37177 -0.41 5.83246
+OBJECT_SHARED Models/lib/garage-small-white.ac -6.59068 54.36891 -0.47 348.111
+OBJECT_SHARED Models/lib/SmHangar.ac -6.59122 54.37101 -0.43 272.903
+OBJECT_SHARED Models/lib/SmHangar.ac -6.59140 54.37100 -0.43 272.903
+OBJECT_SHARED Models/lib/garden-shed.ac -6.59076 54.36944 -0.46 270.003
+OBJECT_SHARED Models/lib/garden-shed.ac -6.59070 54.36879 -0.47 325.924
+# END dsf2stg

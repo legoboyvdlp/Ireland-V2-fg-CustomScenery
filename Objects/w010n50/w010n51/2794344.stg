@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Maritime/Civilian/Severn_Lifeboat.xml -9.90577 51.65072 0 155
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -9.918117 51.634468 -0.01 230.61
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -9.8539 51.6543667 0 71.89
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -9.82825 51.650398 -0.06 59.06
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -9.9039 51.642349 -0.02 50.01
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -9.869516 51.647652 -0.04 90

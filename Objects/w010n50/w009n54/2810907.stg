@@ -1,0 +1,28 @@
+OBJECT_SHARED Models/Power/windturbine.xml -8.0144444 54.4427778 228.29 180
+
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargoip.xml -8.59736 54.27692 -0.43 322.432
+OBJECT_SHARED Models/Airport/cargobox.xml -8.59732 54.27693 -0.43 323.75
+OBJECT_SHARED Models/Airport/cargobox.xml -8.59734 54.27694 -0.43 323.75
+OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -8.59739 54.27691 -0.43 236.142
+OBJECT_SHARED Models/lib/container6-HD.ac -8.59746 54.27692 -0.43 237.264
+OBJECT_SHARED Models/lib/shed8x10.ac -8.59739 54.27699 -0.43 55.0025
+OBJECT_SHARED Models/lib/office6x12.ac -8.59747 54.27702 -0.43 145.005
+OBJECT_SHARED Models/lib/prop_a.ac -8.59638 54.27845 -0.40 182.732
+OBJECT_SHARED Models/lib/prop_a.ac -8.59934 54.27933 -0.37 257.802
+OBJECT_SHARED Models/lib/prop_a.ac -8.59954 54.27935 -0.37 256.374
+OBJECT_SHARED Models/lib/SmHangar.ac -8.59751 54.27866 -0.39 287.004
+OBJECT_SHARED Models/Misc/picnic_table.ac -8.59931 54.27897 -0.38 355.913
+OBJECT_SHARED Models/lib/cone.ac -8.59931 54.27918 -0.37 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -8.59835 54.27882 -0.39 268.411
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -8.59835 54.27886 -0.39 268.57
+OBJECT_SHARED Models/lib/1space_dual.ac -8.59918 54.27870 -0.39 257.753
+OBJECT_SHARED Models/lib/1space_dual.ac -8.59901 54.27868 -0.39 257.621
+OBJECT_SHARED Models/lib/HorizTanks2.ac -8.59754 54.27880 -0.39 356.714
+OBJECT_SHARED Models/lib/MedHangar.ac -8.59735 54.27826 -0.40 284.895
+OBJECT_SHARED Models/lib/MedHangar.ac -8.59795 54.27817 -0.40 284.791
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -8.59762 54.27878 -0.39 111.231
+OBJECT_SHARED Models/lib/cube16x10.ac -8.59962 54.27898 -0.38 77.6841
+# END dsf2stg

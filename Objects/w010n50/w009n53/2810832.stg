@@ -1,0 +1,18 @@
+OBJECT_SHARED Models/Airport/ndb.ac -8.940881 53.299408 21.21 180
+OBJECT_SHARED Models/Airport/ils.xml -8.936975 53.301639 23.61 104.15
+OBJECT_SHARED Models/Communications/vordme_1.xml -8.941269 53.299325 20.64 180
+OBJECT_SHARED Models/Airport/localizer.xml -8.953706 53.298 17.11 344.13
+
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/transformer3x3.ac -8.94197 53.30294 -0.29 263.423
+OBJECT_SHARED Models/lib/office6x12.ac -8.94209 53.30313 -0.29 355.001
+OBJECT_SHARED Models/lib/container6-HD.ac -8.94121 53.30186 -0.29 194.472
+OBJECT_SHARED Models/lib/transformer3x3.ac -8.94141 53.29937 -0.31 195.005
+OBJECT_SHARED Models/lib/transformer3x3.ac -8.94219 53.30101 -0.31 200.004
+OBJECT_SHARED Models/lib/LongRow.ac -8.93704 53.30214 -0.22 192.13
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.94335 53.30216 -0.33 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -8.94388 53.30081 -0.34 190.713
+OBJECT_SHARED Models/lib/prop_a.ac -8.94148 53.30191 -0.29 311.823
+# END dsf2stg

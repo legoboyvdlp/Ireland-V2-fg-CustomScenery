@@ -1,0 +1,21 @@
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -6.7702778 54.6169444 -333.08 180
+
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_green.ac -6.81731 54.56221 -0.10 270.004
+OBJECT_SHARED Models/Transport/hatchback_green.ac -6.81834 54.56139 -0.14 85.464
+OBJECT_SHARED Models/lib/shed8x10.ac -6.81772 54.56036 -0.16 71.0648
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.81764 54.56020 -0.16 249.833
+OBJECT_SHARED Models/Transport/van_silver.ac -6.81774 54.56141 -0.13 263.572
+OBJECT_SHARED Models/Transport/van_red.ac -6.81733 54.56008 -0.16 343.301
+OBJECT_SHARED Models/Transport/hatchback_black.ac -6.81760 54.56057 -0.15 323.371
+OBJECT_SHARED Models/Transport/hatchback_black.ac -6.81732 54.56143 -0.12 351.573
+OBJECT_SHARED Models/lib/shed8x10.ac -6.81742 54.56048 -0.15 71.0648
+OBJECT_SHARED Models/lib/shed8x10.ac -6.81739 54.56055 -0.15 71.0648
+OBJECT_SHARED Models/lib/industrial13x24.ac -6.81770 54.56043 -0.16 340.86
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.81673 54.56203 -0.09 267.602
+OBJECT_SHARED Models/Transport/van_red.ac -6.81849 54.56049 -0.17 244.851
+OBJECT_SHARED Models/lib/shed10x50.ac -6.81861 54.56122 -0.15 355.56
+OBJECT_SHARED Models/lib/shed10x50.ac -6.81815 54.56120 -0.14 355.56
+# END dsf2stg

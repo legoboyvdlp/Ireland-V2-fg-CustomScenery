@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -10.03439 54.22131 -0.40 119.252
+OBJECT_SHARED Models/Misc/picnic_table.ac -10.03503 54.22177 -0.41 203.003
+OBJECT_SHARED Models/lib/farm19x12.ac -10.03485 54.22174 -0.41 293.003
+# END dsf2stg

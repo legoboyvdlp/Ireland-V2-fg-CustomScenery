@@ -1,0 +1,4 @@
+OBJECT_BASE 2843624.btg
+OBJECT EIMH.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -6.882450 53.638344 82.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -6.875024 53.636984 76.3 0.00

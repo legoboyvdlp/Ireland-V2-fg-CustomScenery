@@ -1,0 +1,43 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -6.53643 53.54233 -0.54 161.522
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.53612 53.54280 -0.55 46.3314
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.53635 53.54253 -0.55 164.744
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.53654 53.54216 -0.54 199.653
+OBJECT_SHARED Models/lib/prop_a.ac -6.53626 53.54277 -0.55 229.095
+OBJECT_SHARED Models/lib/prop_a.ac -6.53642 53.54199 -0.54 70.1419
+OBJECT_SHARED Models/lib/prop_a.ac -6.53531 53.54302 -0.55 319.673
+OBJECT_SHARED Models/lib/prop_a.ac -6.53562 53.54282 -0.55 324.012
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.53672 53.54261 -0.55 344.41
+OBJECT_SHARED Models/lib/garden-shed.ac -6.53695 53.54298 -0.55 242.992
+OBJECT_SHARED Models/lib/cone.ac -6.53709 53.54286 -0.55 0
+OBJECT_SHARED Models/lib/cone.ac -6.53709 53.54286 -0.55 0
+OBJECT_SHARED Models/lib/cone.ac -6.53707 53.54287 -0.54 0
+OBJECT_SHARED Models/lib/cone.ac -6.53706 53.54288 -0.54 0
+OBJECT_SHARED Models/lib/cone.ac -6.53713 53.54284 -0.54 0
+OBJECT_SHARED Models/lib/cone.ac -6.53595 53.54269 -0.55 0
+OBJECT_SHARED Models/lib/cone.ac -6.53610 53.54277 -0.55 0
+OBJECT_SHARED Models/lib/cone.ac -6.53627 53.54266 -0.55 0
+OBJECT_SHARED Models/lib/cone.ac -6.53634 53.54253 -0.55 0
+OBJECT_SHARED Models/lib/cone.ac -6.53655 53.54215 -0.54 0
+OBJECT_SHARED Models/lib/cone.ac -6.53593 53.54244 -0.55 0
+OBJECT_SHARED Models/lib/cone.ac -6.53613 53.54226 -0.54 0
+OBJECT_SHARED Models/Misc/picnic_table.ac -6.53713 53.54288 -0.54 251.563
+OBJECT_SHARED Models/lib/watertank3x1.ac -6.53728 53.54290 -0.54 255.145
+OBJECT_SHARED Models/lib/watertank3x1.ac -6.53729 53.54287 -0.54 249.663
+OBJECT_SHARED Models/lib/SmHangar.ac -6.53621 53.54283 -0.55 46.054
+OBJECT_SHARED Models/lib/coal_pile.ac -6.53638 53.54325 -0.55 334.982
+OBJECT_SHARED Models/Transport/hatchback_black.ac -6.74053 53.57484 -0.40 6.05356
+OBJECT_SHARED Models/Transport/hatchback_black.ac -6.74216 53.57578 -0.38 61.7002
+OBJECT_SHARED Models/Transport/hatchback_red.ac -6.74205 53.57586 -0.38 62.9306
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.74194 53.57572 -0.38 89.0909
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.74183 53.57584 -0.39 186.53
+OBJECT_SHARED Models/lib/prop_a.ac -6.74169 53.57593 -0.39 299.985
+OBJECT_SHARED Models/lib/prop_a.ac -6.74177 53.57559 -0.39 12.0618
+OBJECT_SHARED Models/lib/prop_a.ac -6.74042 53.57460 -0.40 176.381
+OBJECT_SHARED Models/lib/prop_a.ac -6.74056 53.57469 -0.40 207.012
+OBJECT_SHARED Models/lib/SmHangar.ac -6.74185 53.57576 -0.39 141.571
+OBJECT_SHARED Models/lib/SmHangar.ac -6.74210 53.57554 -0.38 132.952
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.74060 53.57484 -0.40 277.134
+# END dsf2stg

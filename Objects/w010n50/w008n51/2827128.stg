@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Maritime/Civilian/Atlantic_21_afloat.xml -7.83323 51.93206 -0.2 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -7.842175 51.9428069 12.57 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -7.834217 51.914249 -0.7 163.97
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -7.808816 51.922234 -0.93 85.73

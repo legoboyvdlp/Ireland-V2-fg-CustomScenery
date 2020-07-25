@@ -1,0 +1,30 @@
+OBJECT_SHARED Models/Airport/ndb.ac -9.524489 52.182156 29.03 180
+OBJECT_SHARED Models/Airport/ils.xml -9.515067 52.183933 32 108.22
+OBJECT_SHARED Models/Communications/vordme_1.xml -9.524464 52.182111 29.06 180
+OBJECT_SHARED Models/Airport/localizer.xml -9.541656 52.177144 24 341.18
+
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/cargoip.xml -9.53422 52.18093 -0.51 27.653
+OBJECT_SHARED Models/Airport/cargoip.xml -9.53425 52.18092 -0.51 115.732
+OBJECT_SHARED Models/Airport/cargoip.xml -9.53428 52.18091 -0.51 294.702
+OBJECT_SHARED Models/lib/cars7.ac -9.53382 52.18122 -0.51 285.345
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -9.52406 52.18446 -0.42 38.4514
+OBJECT_SHARED Models/lib/MedHangar.ac -9.52876 52.18323 -0.47 122.383
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml -9.53705 52.18088 -0.40 271.421
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml -9.53575 52.18105 -0.40 114.023
+OBJECT_SHARED Models/lib/cube16x10.ac -9.53745 52.18133 -0.49 222.14
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -9.53803 52.18124 -0.49 221.312
+OBJECT_SHARED Models/lib/caisses_group.ac -9.53553 52.18146 -0.50 307.741
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -9.53355 52.18206 -0.49 107.892
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -9.53368 52.18204 -0.49 107.793
+OBJECT_SHARED Models/lib/fuel-truck.xml -9.53341 52.18216 -0.49 357.545
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -9.53344 52.18216 -0.49 263.863
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -9.53364 52.18210 -0.49 196.802
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -9.53341 52.18227 -0.49 219.702
+OBJECT_SHARED Models/lib/SmHangar.ac -9.53305 52.18239 -0.49 113.072
+OBJECT_SHARED Models/lib/office32x25n.ac -9.53603 52.18156 -0.50 103.024
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -9.53640 52.18144 -0.49 315.005
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -9.53643 52.18146 -0.49 0
+# END dsf2stg

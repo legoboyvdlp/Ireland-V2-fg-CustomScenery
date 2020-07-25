@@ -1,0 +1,5 @@
+OBJECT_BASE 2810907.btg
+OBJECT EIFR.btg
+OBJECT_SHARED Models/Airport/windsock.xml -8.241060 54.492523 33.5 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -8.239559 54.492808 34.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -8.237752 54.494218 36.9 0.00

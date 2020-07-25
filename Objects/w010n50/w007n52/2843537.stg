@@ -1,0 +1,7 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garden-shed.ac -6.68574 52.29585 -0.27 65.0002
+OBJECT_SHARED Models/lib/prop_a.ac -6.68228 52.29856 -0.34 180.001
+OBJECT_SHARED Models/lib/office3x10.ac -6.68241 52.29831 -0.34 0
+# END dsf2stg

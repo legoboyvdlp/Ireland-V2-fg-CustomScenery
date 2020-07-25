@@ -1,0 +1,46 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office3x10.ac -5.68415 54.58542 -0.25 349.173
+OBJECT_SHARED Models/lib/shed8x10.ac -5.69699 54.57840 -0.40 92.071
+OBJECT_SHARED Models/lib/office4x14.ac -5.69649 54.58075 -0.39 101.861
+OBJECT_SHARED Models/lib/office8x14.ac -5.68476 54.58554 -0.24 228.975
+OBJECT_SHARED Models/lib/office8x14.ac -5.68468 54.58559 -0.24 49.0822
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.69714 54.57856 -0.41 1.83062
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.69711 54.57813 -0.41 -45.3399
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.69722 54.57892 -0.40 77.5605
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.68457 54.58507 -0.25 46.1447
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.68388 54.58476 -0.26 22.5731
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.68416 54.58534 -0.25 -27.6956
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.69728 54.57965 -0.40 156.174
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.69686 54.58066 -0.40 5.14305
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.69621 54.58088 -0.38 241.49
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.69589 54.58080 -0.38 182.223
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.68415 54.58612 -0.24 173.335
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.68357 54.58427 -0.28 254.103
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -5.68382 54.58453 -0.27 179.68
+OBJECT_SHARED Models/Misc/picnic_table.ac -5.69644 54.58072 -0.39 9.89334
+OBJECT_SHARED Models/Misc/picnic_table.ac -5.68407 54.58432 -0.27 35.8819
+OBJECT_SHARED Models/Misc/picnic_table.ac -5.68412 54.58430 -0.27 35.8819
+OBJECT_SHARED Models/Misc/picnic_table.ac -5.68412 54.58437 -0.27 35.8819
+OBJECT_SHARED Models/Misc/picnic_table.ac -5.68417 54.58434 -0.27 35.8819
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.69654 54.58081 -0.39 220.702
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.69651 54.58083 -0.39 220.702
+OBJECT_SHARED Models/lib/container6-HD.ac -5.69743 54.57816 -0.41 0
+OBJECT_SHARED Models/lib/container6-HD.ac -5.69754 54.57817 -0.41 0
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -5.68547 54.58509 -0.23 203.095
+OBJECT_SHARED Models/lib/prop_a.ac -5.68485 54.58474 -0.25 23.1032
+OBJECT_SHARED Models/lib/prop_a.ac -5.68456 54.58517 -0.24 224.502
+OBJECT_SHARED Models/lib/fuel-truck.xml -5.68529 54.58500 -0.24 111.194
+OBJECT_SHARED Models/lib/SmHangar.ac -5.68451 54.58502 -0.25 55.041
+OBJECT_SHARED Models/lib/SmHangar.ac -5.68433 54.58494 -0.25 55.041
+OBJECT_SHARED Models/lib/SmHangar.ac -5.68416 54.58487 -0.26 55.041
+OBJECT_SHARED Models/lib/SmHangar.ac -5.68397 54.58479 -0.26 55.041
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -5.69709 54.57878 -0.40 274.914
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -5.69740 54.57808 -0.41 358.125
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -5.69708 54.57871 -0.40 274.914
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -5.69716 54.57808 -0.41 358.125
+OBJECT_SHARED Models/lib/industrial13x24.ac -5.69700 54.57813 -0.40 91.9007
+OBJECT_SHARED Models/lib/NoParkStripes.xml -5.68545 54.58515 -0.23 295.145
+OBJECT_SHARED Models/lib/NoParkStripes.xml -5.68541 54.58511 -0.23 295.145
+# END dsf2stg

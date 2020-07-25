@@ -1,0 +1,9 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.67369 54.43508 -0.29 96.791
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -6.67431 54.43500 -0.28 6.84459
+OBJECT_SHARED Models/lib/industrial13x24.ac -6.67414 54.43508 -0.28 7.9144
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.67390 54.43539 -0.28 189.534
+OBJECT_SHARED Models/Transport/hatchback_red.ac -6.67399 54.43543 -0.28 6.6743
+# END dsf2stg

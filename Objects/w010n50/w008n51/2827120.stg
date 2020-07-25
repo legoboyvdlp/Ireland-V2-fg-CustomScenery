@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -7.9842263 51.8256104 -2.4 0
+OBJECT_STATIC Ballycotton_Lighthouse.xml -7.99519282 51.82537022 0 0
+OBJECT_STATIC Ballycotton_Lighthouse_Accom_1.ac -7.99527996 51.82531693 0 15.6
+OBJECT_STATIC Ballycotton_Lighthouse_Accom_2.ac -7.99530412 51.82541457 0 16
+OBJECT_STATIC Ballycotton_Lighthouse_Helipad.ac -7.9951891 51.82592001 0 0

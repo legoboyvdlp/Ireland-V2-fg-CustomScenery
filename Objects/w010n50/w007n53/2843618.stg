@@ -1,0 +1,20 @@
+OBJECT_SHARED Models/Airport/ndb.ac -6.447464 53.528694 71.89 180
+
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/dGreenhse.ac -6.26907 53.61014 -0.52 318.003
+OBJECT_SHARED Models/lib/dGreenhse.ac -6.26924 53.61023 -0.52 318.003
+OBJECT_SHARED Models/lib/dGreenhse.ac -6.26915 53.61019 -0.52 318.003
+OBJECT_SHARED Models/lib/dGreenhse.ac -6.26932 53.61027 -0.52 318.003
+OBJECT_SHARED Models/lib/dGreenhse.ac -6.26903 53.61012 -0.52 318.003
+OBJECT_SHARED Models/lib/dGreenhse.ac -6.26920 53.61021 -0.52 318.003
+OBJECT_SHARED Models/lib/dGreenhse.ac -6.26911 53.61016 -0.52 318.003
+OBJECT_SHARED Models/lib/dGreenhse.ac -6.26928 53.61025 -0.52 318.003
+OBJECT_SHARED Models/lib/dGreenhse.ac -6.26894 53.61007 -0.52 318.003
+OBJECT_SHARED Models/lib/dGreenhse.ac -6.26899 53.61010 -0.52 318.003
+OBJECT_SHARED Models/lib/LongRow.ac -6.27038 53.61079 -0.53 280
+OBJECT_SHARED Models/lib/LongRow.ac -6.27071 53.61076 -0.53 280
+OBJECT_SHARED Models/lib/LongRow.ac -6.26996 53.60971 -0.53 10.8038
+OBJECT_SHARED Models/lib/farm19x12.ac -6.26836 53.61044 -0.51 294.003
+# END dsf2stg

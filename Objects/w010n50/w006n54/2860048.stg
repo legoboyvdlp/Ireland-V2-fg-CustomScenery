@@ -1,0 +1,22 @@
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/coal_pile.ac -5.94521 54.33000 -0.37 270.003
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -5.94510 54.32987 -0.37 0
+OBJECT_SHARED Models/lib/coal_pile.ac -5.94506 54.32989 -0.37 26.4926
+OBJECT_SHARED Models/Airport/cargobox.xml -5.94440 54.32925 -0.36 23.8901
+OBJECT_SHARED Models/Transport/van_silver.ac -5.94512 54.32981 -0.37 166.61
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -5.94504 54.32981 -0.37 0
+OBJECT_SHARED Models/Airport/cargobox.xml -5.94439 54.32923 -0.36 23.8901
+OBJECT_SHARED Models/lib/prop_a.ac -5.94419 54.32865 -0.36 206.534
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -5.94519 54.32995 -0.37 0
+OBJECT_SHARED Models/Airport/cargobox.xml -5.94438 54.32922 -0.36 23.8901
+OBJECT_SHARED Models/Transport/hatchback_black.ac -5.94439 54.32913 -0.36 286.731
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -5.94499 54.32977 -0.37 61.4914
+OBJECT_SHARED Models/lib/office4x14.ac -5.94448 54.32933 -0.36 205.651
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -5.94519 54.32998 -0.37 45.0007
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -5.94438 54.32911 -0.36 285.665
+OBJECT_SHARED Models/lib/schranke.ac -5.94496 54.32865 -0.37 359.944
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -5.94430 54.32897 -0.36 286.461
+OBJECT_SHARED Models/Airport/cargobox.xml -5.94437 54.32921 -0.36 23.8901
+# END dsf2stg

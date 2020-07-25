@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.744332 55.69442 85.18 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.675977 55.682461 0 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.64779 55.625397 238.56 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.586243 55.627654 353.19 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.572373 55.665716 267 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.532098 55.742786 168.57 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.511731 55.641555 179.46 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -5.504544 55.68722 251.18 180
+OBJECT_SHARED Models/Power/windturbine.xml -5.5605556 55.635 288.71 180
+OBJECT_SHARED Models/Power/windturbine.xml -5.5597222 55.6288888 278.21 180
+OBJECT_SHARED Models/Power/windturbine.xml -5.5591666 55.6341666 284.5 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -5.6 55.7166667 109.09 180
