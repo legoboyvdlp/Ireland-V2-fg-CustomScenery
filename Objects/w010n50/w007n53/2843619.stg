@@ -2,10 +2,8 @@ OBJECT_SHARED Models/Airport/ndb.ac -6.110533 53.511861 3.98 180
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.0043272 53.5967807 -4.95 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac -6.031183 53.5037 -0.66 84.46
 
-
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Transport/van_silver.ac -6.23185 53.50368 -0.38 71.3793
-OBJECT_SHARED Models/lib/prop_a.ac -6.23200 53.50359 -0.37 110.501
+OBJECT_SHARED Models/Transport/hatchback_green.ac -6.23185 53.50368 16.23 71.3793
 # END dsf2stg

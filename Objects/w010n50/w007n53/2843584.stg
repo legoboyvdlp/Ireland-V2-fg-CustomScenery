@@ -1,27 +1,19 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/industrial15x22.ac -6.85650 53.06307 -0.30 345.694
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.85665 53.06328 -0.31 253.204
-OBJECT_SHARED Models/lib/prop_a.ac -6.85784 53.06201 -0.29 128.162
-OBJECT_SHARED Models/lib/prop_a.ac -6.85918 53.06191 -0.28 41.0607
-OBJECT_SHARED Models/lib/HorizTanks2.ac -6.85920 53.06184 -0.28 255.341
-OBJECT_SHARED Models/lib/coal_pile.ac -6.85884 53.06171 -0.29 90
-OBJECT_SHARED Models/lib/coal_pile.ac -6.85894 53.06172 -0.28 90
-OBJECT_SHARED Models/lib/dGreenhse.ac -6.85622 53.06244 -0.29 246.975
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85865 53.06170 -0.29 19.6548
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85851 53.06205 -0.28 331.501
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85779 53.06194 -0.29 352.573
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85820 53.06200 -0.28 338.631
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85263 53.06263 -0.32 147.724
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85311 53.06272 -0.32 157.074
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85393 53.06288 -0.32 160.71
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85496 53.06308 -0.32 177.273
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85561 53.06320 -0.31 184.573
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85581 53.06324 -0.31 168.692
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85581 53.06305 -0.31 14.9306
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85632 53.06313 -0.31 321.954
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85678 53.06316 -0.30 72.5548
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85665 53.06342 -0.31 68.9622
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85652 53.06339 -0.31 344.361
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85865 53.06170 92.91 19.6548
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85851 53.06205 92.78 331.501
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85779 53.06194 93.59 352.573
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85820 53.06200 93.12 338.631
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85263 53.06263 96.13 147.724
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85311 53.06272 96.22 157.074
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85393 53.06288 96.13 160.71
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85496 53.06308 95.63 177.273
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85561 53.06320 95.16 184.573
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85581 53.06324 94.98 168.692
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85581 53.06305 95.10 14.9306
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85632 53.06313 94.61 321.954
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85678 53.06316 94.15 72.5548
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85665 53.06342 94.14 68.9622
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -6.85652 53.06339 94.28 344.361
 # END dsf2stg

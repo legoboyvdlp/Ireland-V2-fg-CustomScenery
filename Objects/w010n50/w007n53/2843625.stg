@@ -1,12 +1,5 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/transformer3x3.ac -6.65065 53.69620 -0.51 11.8929
-OBJECT_SHARED Models/lib/prop_a.ac -6.65416 53.69542 -0.51 3.58022
-OBJECT_SHARED Models/lib/coal_pile.ac -6.65241 53.69560 -0.51 236.065
-OBJECT_SHARED Models/lib/coal_pile.ac -6.65245 53.69557 -0.51 186.555
-OBJECT_SHARED Models/lib/coal_pile.ac -6.65239 53.69556 -0.51 354.813
-OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -6.65710 53.69478 -0.50 0
-OBJECT_SHARED Models/lib/office3x10.ac -6.65252 53.69579 -0.52 10.0032
-OBJECT_SHARED Models/lib/LongRow.ac -6.65426 53.69523 -0.51 18.5054
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -6.65710 53.69478 73.92 0
 # END dsf2stg
