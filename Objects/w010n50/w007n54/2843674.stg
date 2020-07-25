@@ -1,37 +1,17 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/prop_a.ac -6.40013 54.38694 -0.53 280.682
-OBJECT_SHARED Models/lib/transformer3x3.ac -6.40077 54.38576 -0.53 261.435
-OBJECT_SHARED Models/lib/coal_pile.ac -6.40001 54.38742 -0.54 90
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.40107 54.38619 -0.53 15.9524
-OBJECT_SHARED Models/Transport/hatchback_green.ac -6.40083 54.38623 -0.53 14.7109
-OBJECT_SHARED Models/lib/prop_a.ac -6.40004 54.38670 -0.53 281.412
-OBJECT_SHARED Models/Misc/picnic_table.ac -6.39980 54.38639 -0.53 9.58022
-OBJECT_SHARED Models/lib/garden-shed.ac -6.40069 54.38561 -0.52 351.874
-OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -6.39994 54.38734 -0.54 101.843
-OBJECT_SHARED Models/Transport/van_red.ac -6.40084 54.38600 -0.53 255.76
-OBJECT_SHARED Models/Transport/van_silver.ac -6.39994 54.38681 -0.53 11.2941
-OBJECT_SHARED Models/Transport/hatchback_red.ac -6.40074 54.38624 -0.53 16.9631
-OBJECT_SHARED Models/lib/office3x10.ac -6.40071 54.38568 -0.53 171.735
-OBJECT_SHARED Models/lib/garden-shed.ac -6.39967 54.38671 -0.53 98.6024
-OBJECT_SHARED Models/Misc/picnic_table.ac -6.39988 54.38632 -0.53 11.1623
-OBJECT_SHARED Models/lib/shed8x10.ac -6.39974 54.38648 -0.53 279.973
-OBJECT_SHARED Models/lib/shed8x10.ac -6.39973 54.38643 -0.53 279.973
-OBJECT_SHARED Models/lib/industrial13x24.ac -6.39981 54.38680 -0.53 99.3001
-OBJECT_SHARED Models/Transport/van_red.ac -6.40074 54.38608 -0.53 194.741
-OBJECT_SHARED Models/Misc/picnic_table.ac -6.39988 54.38635 -0.53 11.2007
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -6.43290 54.45546 -0.32 311.313
-OBJECT_SHARED Models/lib/industrial13x24.ac -6.43278 54.45587 -0.32 143.603
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.43333 54.45595 -0.31 322.601
-OBJECT_SHARED Models/lib/shed8x10.ac -6.43258 54.45626 -0.32 326.341
-OBJECT_SHARED Models/lib/shed8x10.ac -6.43316 54.45607 -0.31 321.941
-OBJECT_SHARED Models/lib/shed8x10.ac -6.43269 54.45632 -0.32 236.274
-OBJECT_SHARED Models/lib/office3x10.ac -6.43386 54.45644 -0.29 44.8139
-OBJECT_SHARED Models/lib/prop_a.ac -6.43423 54.45684 -0.29 58.5017
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -6.43345 54.45656 -0.30 328.112
-OBJECT_SHARED Models/Transport/hatchback_black.ac -6.43354 54.45658 -0.30 325.123
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -6.43316 54.45632 -0.31 59.8105
-OBJECT_SHARED Models/Transport/van_red.ac -6.43382 54.45646 -0.30 45.0007
-OBJECT_SHARED Models/lib/shed10x50.ac -6.43338 54.45630 -0.30 144.691
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -6.40107 54.38619 20.82 15.9524
+OBJECT_SHARED Models/Transport/hatchback_red.ac -6.40083 54.38623 20.82 14.7109
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.40084 54.38600 20.50 255.76
+OBJECT_SHARED Models/Transport/hatchback_red.ac -6.39994 54.38681 20.86 11.2941
+OBJECT_SHARED Models/Transport/van_silver.ac -6.40074 54.38624 20.81 16.9631
+OBJECT_SHARED Models/Misc/picnic_table.ac -6.39988 54.38632 20.26 11.1623
+OBJECT_SHARED Models/Transport/van_red.ac -6.40074 54.38608 20.57 194.741
+OBJECT_SHARED Models/Misc/picnic_table.ac -6.39988 54.38635 20.30 11.2007
+OBJECT_SHARED Models/Transport/van_red.ac -6.43290 54.45546 15.87 311.313
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.43345 54.45656 12.62 328.112
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.43354 54.45658 12.57 325.123
+OBJECT_SHARED Models/Transport/hatchback_black.ac -6.43316 54.45632 13.06 59.8105
+OBJECT_SHARED Models/Transport/van_silver.ac -6.43382 54.45646 12.63 45.0007
 # END dsf2stg

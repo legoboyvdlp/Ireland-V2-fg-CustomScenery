@@ -3,11 +3,5 @@ OBJECT_SHARED Models/Power/windturbine.xml -6.099982 54.804443 291.65 180
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed8x10.ac -6.20758 54.84800 -0.39 226.26
-OBJECT_SHARED Models/lib/shed8x10.ac -6.20791 54.84818 -0.39 45.7629
-OBJECT_SHARED Models/lib/prop_a.ac -6.20737 54.84857 -0.40 311.631
-OBJECT_SHARED Models/lib/shed8x10.ac -6.20772 54.84809 -0.39 134.473
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.20780 54.84830 -0.40 331.754
-OBJECT_SHARED Models/lib/cone.ac -6.20741 54.84829 -0.39 0
-OBJECT_SHARED Models/lib/shed8x10.ac -6.20750 54.84805 -0.39 226.26
+OBJECT_SHARED Models/Transport/van_silver.ac -6.20780 54.84830 151.83 331.754
 # END dsf2stg

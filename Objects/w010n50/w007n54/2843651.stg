@@ -4,21 +4,9 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac -6.0341866 54.0058467 
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed8x10.ac -6.04507 54.09404 -0.27 135.523
-OBJECT_SHARED Models/lib/office3x10.ac -6.04595 54.09452 -0.28 137.463
-OBJECT_SHARED Models/lib/industrial13x24.ac -6.04622 54.09468 -0.28 317.602
-OBJECT_SHARED Models/lib/farm19x12.ac -6.04514 54.09386 -0.26 222.585
-OBJECT_SHARED Models/lib/prop_a.ac -6.03008 54.05138 -0.54 172.091
-OBJECT_SHARED Models/Transport/hatchback_black.ac -6.02919 54.05130 -0.54 267.12
-OBJECT_SHARED Models/Misc/picnic_table.ac -6.02928 54.05129 -0.54 174.63
-OBJECT_SHARED Models/lib/coal_pile.ac -6.02855 54.05426 -0.51 273.002
-OBJECT_SHARED Models/lib/office3x10.ac -6.02924 54.05142 -0.54 86.9142
-OBJECT_SHARED Models/lib/industrial13x24.ac -6.03015 54.05146 -0.54 173.635
-OBJECT_SHARED Models/lib/prop_a.ac -6.03024 54.05172 -0.54 351.374
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -6.02918 54.05127 -0.54 89.1829
-OBJECT_SHARED Models/Transport/van_red.ac -6.02919 54.05139 -0.54 88.5127
-OBJECT_SHARED Models/Misc/picnic_table.ac -6.02928 54.05131 -0.54 174.85
-OBJECT_SHARED Models/lib/SmHangar.ac -6.03019 54.05121 -0.55 173.261
-OBJECT_SHARED Models/lib/coal_pile.ac -6.02855 54.05427 -0.51 93.0048
-OBJECT_SHARED Models/lib/SmHangar.ac -6.03016 54.05133 -0.55 173.261
+OBJECT_SHARED Models/Transport/hatchback_green.ac -6.02919 54.05130 21.15 267.12
+OBJECT_SHARED Models/Misc/picnic_table.ac -6.02928 54.05129 21.06 174.63
+OBJECT_SHARED Models/Transport/hatchback_red.ac -6.02918 54.05127 21.15 89.1829
+OBJECT_SHARED Models/Transport/van_red.ac -6.02919 54.05139 21.17 88.5127
+OBJECT_SHARED Models/Misc/picnic_table.ac -6.02928 54.05131 21.07 174.85
 # END dsf2stg
