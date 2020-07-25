@@ -1,10 +1,5 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/prop_a.ac -9.48790 51.67667 -0.44 113.962
-OBJECT_SHARED Models/lib/prop_a.ac -9.48811 51.67661 -0.44 119.433
-OBJECT_SHARED Models/lib/prop_a.ac -9.48831 51.67654 -0.44 121.432
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -9.48910 51.67626 -0.43 294.301
-OBJECT_SHARED Models/lib/office8x14.ac -9.48476 51.67882 -0.46 266.192
-OBJECT_SHARED Models/lib/transformer3x3.ac -9.48917 51.67575 -0.43 143.165
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -9.48910 51.67626 6.17 294.301
 # END dsf2stg

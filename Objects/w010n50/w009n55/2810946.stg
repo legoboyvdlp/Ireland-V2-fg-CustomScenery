@@ -7,30 +7,20 @@ OBJECT_STATIC EDDC_WASH.xml -8.34298 55.03755 3.88 280
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34304 55.03841 -0.48 183.69
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34114 55.03814 -0.47 -37.4076
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34097 55.03859 -0.48 -8.04624
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34169 55.03937 -0.49 71.0016
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34126 55.03717 -0.46 44.1712
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34117 55.03759 -0.47 87.4635
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34283 55.03763 -0.47 266.824
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34298 55.03784 -0.47 270.004
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34307 55.03784 -0.47 102.323
-OBJECT_SHARED Models/Transport/hatchback_red.ac -8.34233 55.03777 -0.47 251.893
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -8.34300 55.03810 -0.47 338.12
-OBJECT_SHARED Models/lib/1space_dual.ac -8.34261 55.03781 -0.47 70.9604
-OBJECT_SHARED Models/lib/1space_dual.ac -8.34160 55.03772 -0.47 68.9828
-OBJECT_SHARED Models/lib/1space_dual.ac -8.34177 55.03776 -0.47 71.9931
-OBJECT_SHARED Models/lib/cube16x10.ac -8.34324 55.03762 -0.47 162.862
-OBJECT_SHARED Models/lib/HorizTanks2.ac -8.34314 55.03834 -0.48 248.881
-OBJECT_SHARED Models/lib/office3x10.ac -8.34436 55.03731 -0.46 266.192
-OBJECT_SHARED Models/lib/office3x10.ac -8.34503 55.03666 -0.45 188.885
-OBJECT_SHARED Models/lib/office3x10.ac -8.34110 55.03775 -0.47 4.76265
-OBJECT_SHARED Models/lib/office3x10.ac -8.34113 55.03788 -0.47 346.723
-OBJECT_SHARED Models/lib/office8x14.ac -8.34427 55.03658 -0.45 298.415
-OBJECT_SHARED Models/lib/office8x14.ac -8.33916 55.03621 -0.43 183.37
-OBJECT_SHARED Models/lib/farm19x12.ac -8.33408 55.04918 -0.52 24.6249
-OBJECT_SHARED Models/lib/farm19x12.ac -8.33378 55.04889 -0.52 38.0504
-OBJECT_SHARED Models/lib/farm19x12.ac -8.33439 55.04875 -0.52 27.2836
-OBJECT_SHARED Models/lib/farm19x12.ac -8.33506 55.04856 -0.52 90
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -8.34148 55.03751 3.20 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -8.34249 55.03754 3.69 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -8.34259 55.03748 3.83 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -8.34277 55.03772 3.64 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -8.34116 55.03808 2.40 57.5308
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34304 55.03841 3.12 183.69
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34114 55.03814 2.33 -37.4076
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34097 55.03859 1.85 -8.04624
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34169 55.03937 1.75 71.0016
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34126 55.03717 3.53 44.1712
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34117 55.03759 2.94 87.4635
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34283 55.03763 3.77 266.824
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34298 55.03784 3.62 270.004
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.34307 55.03784 3.67 102.323
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -8.34233 55.03777 3.36 251.893
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -8.34300 55.03810 3.38 338.12
 # END dsf2stg

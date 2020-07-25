@@ -7,14 +7,12 @@ OBJECT_SHARED Models/Airport/localizer.xml -8.838617 53.907928 168.37 348.69
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -8.81054 53.91345 -0.21 275.86
-OBJECT_SHARED Models/lib/luggage-truck-HD.ac -8.81108 53.91331 -0.20 10.5402
-OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81062 53.91318 -0.20 85.9158
-OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81068 53.91314 -0.20 261.255
-OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81072 53.91317 -0.20 87.9593
-OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81079 53.91316 -0.20 137.607
-OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81084 53.91313 -0.20 244.231
-OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81086 53.91316 -0.20 84.9599
-OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81091 53.91311 -0.20 -85.512
-OBJECT_SHARED Models/lib/fboModern1.ac -8.82470 53.91204 -0.35 11.4356
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -8.81054 53.91345 198.66 275.86
+OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81062 53.91318 198.67 85.9158
+OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81068 53.91314 198.66 261.255
+OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81072 53.91317 198.64 87.9593
+OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81079 53.91316 198.62 137.607
+OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81084 53.91313 198.61 244.231
+OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81086 53.91316 198.61 84.9599
+OBJECT_SHARED Models/Airport/Vehicle/airstairs-gen.ac -8.81091 53.91311 198.59 -85.512
 # END dsf2stg

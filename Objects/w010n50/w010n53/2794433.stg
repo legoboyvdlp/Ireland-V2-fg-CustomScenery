@@ -1,23 +1,2 @@
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -9.6307537 53.1179601 -3.1 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -9.5262932 53.0462724 -1.36 0
-
-# dsf2stg
-# do not edit below this line
-#
-OBJECT_SHARED Models/lib/farm19x12.ac -9.51241 53.06452 -0.27 333.268
-OBJECT_SHARED Models/lib/garden-shed.ac -9.51552 53.06535 -0.33 270.003
-OBJECT_SHARED Models/lib/garden-shed.ac -9.51415 53.06462 -0.30 11.3147
-OBJECT_SHARED Models/lib/garden-shed.ac -9.51419 53.06466 -0.30 348.111
-OBJECT_SHARED Models/lib/garden-shed.ac -9.51490 53.06448 -0.30 8.13413
-OBJECT_SHARED Models/lib/garden-shed.ac -9.51489 53.06443 -0.30 0.00412
-OBJECT_SHARED Models/lib/garden-shed.ac -9.50970 53.06322 -0.20 246.805
-OBJECT_SHARED Models/lib/garden-shed.ac -9.51606 53.06499 -0.33 3.01442
-OBJECT_SHARED Models/lib/garden-shed.ac -9.51608 53.06496 -0.33 357.516
-OBJECT_SHARED Models/lib/prop_a.ac -9.57197 53.09419 -0.19 133.265
-OBJECT_SHARED Models/lib/transformer3x3.ac -9.57226 53.09435 -0.20 127.202
-OBJECT_SHARED Models/lib/garage-small-white.ac -9.57232 53.09441 -0.20 37.2044
-OBJECT_SHARED Models/lib/industrial13x24.ac -9.65394 53.10529 -0.56 150.695
-OBJECT_SHARED Models/lib/office8x14.ac -9.65421 53.10523 -0.56 330.441
-OBJECT_SHARED Models/lib/shed8x10.ac -9.65439 53.10509 -0.56 326.424
-OBJECT_SHARED Models/Misc/picnic_table.ac -9.65402 53.10517 -0.56 330.26
-# END dsf2stg

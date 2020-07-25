@@ -1,13 +1,3 @@
 OBJECT_SHARED Models/Communications/radome-24m.xml -8.70742 52.72103 297.14 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -8.6440469 52.6596495 0.83 11.99
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -8.5300298 52.7348661 34.81 331.35
-
-# dsf2stg
-# do not edit below this line
-#
-OBJECT_SHARED Models/lib/watertank3x1.ac -8.68518 52.66601 -0.25 39.7546
-OBJECT_SHARED Models/lib/shed8x10.ac -8.68521 52.66607 -0.25 219.751
-OBJECT_SHARED Models/lib/shed8x10.ac -8.68492 52.66605 -0.26 219.751
-OBJECT_SHARED Models/lib/shed8x10.ac -8.68503 52.66614 -0.26 219.751
-OBJECT_SHARED Models/lib/office4x14.ac -8.68407 52.66596 -0.28 147.005
-# END dsf2stg

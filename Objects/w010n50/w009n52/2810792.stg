@@ -6,41 +6,24 @@ OBJECT_SHARED Models/Airport/marker.ac -8.896644 52.715228 6.09 180
 OBJECT_SHARED Models/Airport/marker.ac -8.823894 52.748986 29.79 180
 OBJECT_SHARED Models/Airport/localizer.xml -8.946567 52.691739 7.31 322.16
 OBJECT_SHARED Models/Airport/localizer.xml -8.902281 52.712575 5.42 142.19
-
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/FireStationLg.ac -8.91262 52.69094 -0.43 108.243
-OBJECT_SHARED Models/lib/FireStationLg.ac -8.91229 52.69101 -0.43 108.243
-OBJECT_SHARED Models/lib/FireStationLg.ac -8.91531 52.69095 -0.41 55.2937
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -8.90667 52.70435 -0.58 0
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -8.90662 52.70437 -0.58 0
-OBJECT_SHARED Models/Misc/FlagpoleFG.xml -8.90659 52.70433 -0.59 0
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.92500 52.69359 -0.37 0
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.92368 52.69356 -0.39 0
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.92246 52.69350 -0.40 0
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.92133 52.69344 -0.41 0
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.91984 52.69340 -0.43 0
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.91275 52.69211 -0.45 0
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.91401 52.69277 -0.46 0
-OBJECT_SHARED Models/lib/large-hangar.ac -8.91313 52.69074 -0.42 182.193
-OBJECT_SHARED Models/lib/large-hangar.ac -8.91677 52.69121 -0.41 141.214
-OBJECT_SHARED Models/lib/LgMaint.ac -8.91046 52.69153 -0.45 289.773
-OBJECT_SHARED Models/lib/LgMaint.ac -8.90864 52.69930 -0.57 10.0018
-OBJECT_SHARED Models/lib/LgMaint.ac -8.90892 52.70019 -0.58 10.0018
-OBJECT_SHARED Models/lib/LgMaint.ac -8.90521 52.70706 -0.57 323.035
-OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.91954 52.69346 -0.33 355.402
-OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.92056 52.69355 -0.32 355.402
-OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.92163 52.69362 -0.31 355.402
-OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.92281 52.69367 -0.30 355.402
-OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.92406 52.69377 -0.29 355.402
-OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.92537 52.69381 -0.27 355.594
-OBJECT_SHARED Models/Airport/tower_small_airfield.xml -8.92799 52.69549 -0.36 305.331
-OBJECT_SHARED Models/lib/office32x25.ac -8.92799 52.69545 -0.36 34.0513
-OBJECT_SHARED Models/lib/office112x50.ac -8.90333 52.69675 -0.54 100.772
-OBJECT_SHARED Models/lib/office112x50.ac -8.90381 52.69836 -0.56 100.772
-OBJECT_SHARED Models/lib/office112x50.ac -8.90042 52.70629 -0.57 54.4642
-OBJECT_SHARED Models/lib/office112x50.ac -8.90353 52.69745 -0.55 100.772
-OBJECT_SHARED Models/lib/office112x50.ac -8.90401 52.69905 -0.57 100.772
-OBJECT_SHARED Models/lib/office112x50.ac -8.90178 52.70689 -0.56 54.4642
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -8.90667 52.70435 0.90 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -8.90662 52.70437 0.92 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -8.90659 52.70433 0.91 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.92500 52.69359 3.18 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.92368 52.69356 2.82 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.92246 52.69350 2.51 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.92133 52.69344 2.23 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.91984 52.69340 1.89 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.91275 52.69211 0.90 0
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -8.91401 52.69277 0.94 0
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.91954 52.69346 1.92 355.402
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.92056 52.69355 2.14 355.402
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.92163 52.69362 2.39 355.402
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.92281 52.69367 2.70 355.402
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.92406 52.69377 3.02 355.402
+OBJECT_SHARED Models/Airport/RampParkingStripe.xml -8.92537 52.69381 3.40 355.594
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -8.92799 52.69549 4.21 305.331
 # END dsf2stg

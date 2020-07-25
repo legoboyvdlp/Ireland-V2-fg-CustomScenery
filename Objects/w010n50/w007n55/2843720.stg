@@ -3,12 +3,7 @@ OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -6.9290046 55.2258654 -2.4
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/shed8x10.ac -6.78997 55.15570 -0.30 259.675
-OBJECT_SHARED Models/lib/hangarUL10x30.ac -6.78903 55.15556 -0.31 259.181
-OBJECT_SHARED Models/Transport/hatchback_black.ac -6.78963 55.15622 -0.29 87.9249
-OBJECT_SHARED Models/lib/industrial13x24.ac -6.78955 55.15588 -0.30 164.34
-OBJECT_SHARED Models/Transport/hatchback_green.ac -6.78919 55.15582 -0.30 337.582
-OBJECT_SHARED Models/lib/shed8x10.ac -6.78927 55.15553 -0.31 254.66
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.78958 55.15642 -0.29 334.033
-OBJECT_SHARED Models/lib/coal_pile.ac -6.78902 55.15579 -0.30 160.912
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -6.78963 55.15622 37.03 87.9249
+OBJECT_SHARED Models/Transport/hatchback_green.ac -6.78919 55.15582 39.38 337.582
+OBJECT_SHARED Models/Transport/hatchback_black.ac -6.78958 55.15642 36.63 334.033
 # END dsf2stg

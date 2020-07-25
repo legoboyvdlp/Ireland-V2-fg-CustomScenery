@@ -1,32 +1,24 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -7.04443 54.57035 -0.44 60.9517
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -7.04428 54.57178 -0.46 24.445
-OBJECT_SHARED Models/lib/shed8x10.ac -7.04357 54.57119 -0.46 226.502
-OBJECT_SHARED Models/Transport/hatchback_green.ac -7.04385 54.57158 -0.47 330.265
-OBJECT_SHARED Models/Transport/van_red.ac -7.04437 54.57175 -0.46 209.051
-OBJECT_SHARED Models/lib/shed8x10.ac -7.04366 54.57125 -0.46 226.502
-OBJECT_SHARED Models/lib/shed8x10.ac -7.04347 54.57114 -0.46 226.502
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -7.04394 54.57142 -0.46 158.431
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.04461 54.57063 -0.44 320.19
-OBJECT_SHARED Models/Misc/picnic_table.ac -7.04460 54.57156 -0.46 95.0332
-OBJECT_SHARED Models/Airport/cargobox.xml -7.04453 54.57148 -0.46 100.444
-OBJECT_SHARED Models/Transport/hatchback_red.ac -7.04405 54.57156 -0.46 62.6505
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac -7.04413 54.57179 -0.47 32.6244
-OBJECT_SHARED Models/lib/prop_a.ac -7.04486 54.57140 -0.45 46.7901
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -7.04447 54.57037 -0.44 62.3909
-OBJECT_SHARED Models/Airport/cargobox.xml -7.04494 54.57080 -0.44 309.094
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -7.04450 54.57048 -0.44 69.8508
-OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -7.04444 54.57155 -0.46 30.8652
-OBJECT_SHARED Models/Transport/hatchback_blue.ac -7.04394 54.57072 -0.45 358.533
-OBJECT_SHARED Models/Transport/hatchback_silver.ac -7.04419 54.57122 -0.46 138.012
-OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.04449 54.57206 -0.47 187.671
-OBJECT_SHARED Models/lib/shed8x10.ac -7.04388 54.57124 -0.46 46.8615
-OBJECT_SHARED Models/lib/office3x10.ac -7.04410 54.57207 -0.47 12.1621
-OBJECT_SHARED Models/lib/garage-small-white.ac -7.04456 54.57181 -0.46 5.23369
-OBJECT_SHARED Models/lib/prop_a.ac -7.04486 54.57154 -0.46 353.544
-OBJECT_SHARED Models/Misc/picnic_table.ac -7.04460 54.57160 -0.46 95.0332
-OBJECT_SHARED Models/Misc/picnic_table.ac -7.04459 54.57154 -0.46 95.0332
-OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -7.04469 54.57176 -0.46 270
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -7.04443 54.57035 159.64 60.9517
+OBJECT_SHARED Models/Transport/hatchback_black.ac -7.04428 54.57178 158.29 24.445
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -7.04385 54.57158 158.89 330.265
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -7.04437 54.57175 158.23 209.051
+OBJECT_SHARED Models/Transport/hatchback_black.ac -7.04394 54.57142 158.97 158.431
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.04461 54.57063 159.17 320.19
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.04460 54.57156 158.19 95.0332
+OBJECT_SHARED Models/Airport/cargobox.xml -7.04453 54.57148 158.33 100.444
+OBJECT_SHARED Models/Transport/van_silver.ac -7.04405 54.57156 158.71 62.6505
+OBJECT_SHARED Models/Transport/van_red.ac -7.04413 54.57179 158.42 32.6244
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -7.04447 54.57037 159.58 62.3909
+OBJECT_SHARED Models/Airport/cargobox.xml -7.04494 54.57080 158.68 309.094
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -7.04450 54.57048 159.44 69.8508
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -7.04444 54.57155 158.36 30.8652
+OBJECT_SHARED Models/Transport/hatchback_green.ac -7.04394 54.57072 159.68 358.533
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -7.04419 54.57122 158.92 138.012
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -7.04449 54.57206 157.81 187.671
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.04460 54.57160 158.14 95.0332
+OBJECT_SHARED Models/Misc/picnic_table.ac -7.04459 54.57154 158.21 95.0332
+OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -7.04469 54.57176 157.90 270
 # END dsf2stg

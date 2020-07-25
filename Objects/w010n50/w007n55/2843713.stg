@@ -1,19 +1,7 @@
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -6.59411 55.02641 -0.44 2.50904
-OBJECT_SHARED Models/lib/SmHangar.ac -6.59414 55.02676 -0.43 2.50904
-OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -6.58874 55.05697 -0.44 128.502
-OBJECT_SHARED Models/lib/cargo-dolly1-HD.ac -6.58847 55.05657 -0.45 47.9107
-OBJECT_SHARED Models/lib/CargoDollyWithContainer.ac -6.58874 55.05664 -0.45 221.783
-OBJECT_SHARED Models/Transport/van_red.ac -6.58759 55.05627 -0.45 30.7402
-OBJECT_SHARED Models/Transport/hatchback_green.ac -6.58837 55.05661 -0.45 311.934
-OBJECT_SHARED Models/Transport/hatchback_black.ac -6.58847 55.05661 -0.45 304.134
-OBJECT_SHARED Models/lib/SmHangar.ac -6.58770 55.05632 -0.45 228.391
-OBJECT_SHARED Models/lib/SmHangar.ac -6.58816 55.05656 -0.45 228.391
-OBJECT_SHARED Models/lib/SmHangar.ac -6.58793 55.05644 -0.45 228.391
-OBJECT_SHARED Models/lib/office3x10.ac -6.58853 55.05676 -0.45 314.241
-OBJECT_SHARED Models/lib/coal_pile.ac -6.58754 55.05649 -0.45 180.001
-OBJECT_SHARED Models/lib/cone.ac -6.58263 55.05887 -0.37 0
-OBJECT_SHARED Models/lib/cone.ac -6.58245 55.05874 -0.37 0
+OBJECT_SHARED Models/Transport/van_silver.ac -6.58759 55.05627 3.85 30.7402
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -6.58837 55.05661 4.09 311.934
+OBJECT_SHARED Models/Transport/hatchback_red.ac -6.58847 55.05661 4.10 304.134
 # END dsf2stg
